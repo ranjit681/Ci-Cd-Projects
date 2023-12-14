@@ -13,6 +13,8 @@ Allow all the ports
 
 Jenkins
 sudo apt update -y
+sudo hostnamectl set-hostname jenkins
+/bin/bash
 sudo apt install openjdk-17-jre -y
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
   https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
@@ -33,5 +35,14 @@ Send everything
 Build Now
 
 
+SonarQube
+sudo hostnamectl set-hostname sonarqube
+/bin/bash
+sudo apt update -y
+sudo apt install openjdk-11-jre -y
+sudo apt install unzip
+wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.3.0.82913.zip
+ls/bin/linux/ls
+./sonar.sh
 
 
