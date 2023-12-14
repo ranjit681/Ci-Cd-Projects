@@ -58,5 +58,12 @@ My account: Token: Sonarqube-Token | Copy and Save
 Jenkins
 Manage Plugins | Available Plugins [ SonarQube Scanner, SSH2 Easy,  ]
 
+/manage/configureTools/
+SonarQube Scanner -- Add SonarQube Scanner -- SonarScanner
+Save
+
+Configure/
+SonarQube Servers -- Sonarqube Installation -- Sonar Server -- url:9000
+
 
 
