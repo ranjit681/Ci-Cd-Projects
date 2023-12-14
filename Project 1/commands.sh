@@ -53,7 +53,10 @@ Setup
 with jenkins
 github
 Copy the Project Key: .scan
-My account: Token: Sonarqube-Token 
+My account: Token: Sonarqube-Token | Copy and Save
+
+Jenkins
+
 
 
 
