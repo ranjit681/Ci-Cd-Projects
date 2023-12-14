@@ -46,4 +46,6 @@ ls/bin/linux/ls
 ./sonar.sh
 ./sonar.sh console
 
+Copy the IP and paste url:9000
+
 
