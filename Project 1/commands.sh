@@ -88,7 +88,8 @@ sudo su jenkins
 
 D-> sudo su
 nano /etc/ssh/sshd_config
-Uncomment Public Authentication Yes
+Uncomment Public Authentication yes
+
 
 
 
