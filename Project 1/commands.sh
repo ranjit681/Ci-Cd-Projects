@@ -141,4 +141,12 @@ D-> docker ps
 sudo usermod -aG docker ubuntu
 newgrp docker
 
+docker build -t mywebsite .
+docker run -d -p 8085:80 --name=Onix-Website mywebsite
+Save
+Build Now
+
+
+
+
 
