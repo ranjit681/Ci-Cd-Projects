@@ -115,6 +115,9 @@ Goto github: Create a file
 Dockerfile
 FROM nginx
 COPY . /usr/share/nginx/html/
+Save it
+
+
 
 
 
