@@ -100,6 +100,10 @@ ssh-keygen
 ssh-copy-id ubuntu@DockerIp
 
 
+Go to Jenkins: 
+
+
+
 
 
 
