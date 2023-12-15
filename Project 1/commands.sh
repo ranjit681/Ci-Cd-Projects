@@ -117,6 +117,8 @@ FROM nginx
 COPY . /usr/share/nginx/html/
 Save it
 
+Automated-Pipeline/configure
+Post Build Actions : Remove the remote shell
 
 
 
