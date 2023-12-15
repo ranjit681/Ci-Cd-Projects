@@ -82,7 +82,9 @@ sudo apt update -y
 sudo apt install docker.io -y
 sudo systemctl status docker
 sudo systemctl start docker
-sudo usermod -aG docker ubuntu
+
+docker ps
+
 
 sudo su jenkins
 
@@ -134,4 +136,9 @@ Build Now
 
 Automated-Pipeline/configure
 Post Build Actions: Add Build Steps: Remote Shell | shell cd /home/ubuntu/website
+
+D-> docker ps
+sudo usermod -aG docker ubuntu
+newgrp docker
+
 
