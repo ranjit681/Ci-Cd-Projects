@@ -68,7 +68,8 @@ Build Steps: Exexcute the SonarQube Scanner
 Analysis Properties: Token /Scan
 
 manage/Configure
-Server Authentication Token: Add- Jenkins | Secret Text
+Server Authentication Token: Add- Jenkins | Secret Text | ID : Sonar-Token
+
 
 
 
