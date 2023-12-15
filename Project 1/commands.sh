@@ -75,6 +75,10 @@ Build Now
  Goto SonarQube Check the status
 
 
+Docker
+sudo hostnamectl set-hostname sonarqube
+/bin/bash
+sudo apt update -y
 
 
 
