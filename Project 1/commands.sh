@@ -124,6 +124,8 @@ Save
 
 D-> Exit | ls | mkdir website | pwd | /home/ubuntu/website
 
+Build Now
+
 
 
 
