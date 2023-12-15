@@ -101,6 +101,7 @@ ssh-copy-id ubuntu@DockerIp
 
 
 Go to Jenkins: 
+manage/configure | Server Group Center : Docker-Servers | UN: ubuntu | Password: *****
 
 
 
