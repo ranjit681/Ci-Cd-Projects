@@ -9,8 +9,6 @@ Jenkins & Docker t2 Micro
 SonarQube t2 Medium
 Allow all the ports
 
-
-
 Jenkins
 sudo apt update -y
 sudo hostnamectl set-hostname jenkins
@@ -64,6 +62,7 @@ Save
 
 Configure/
 SonarQube Servers -- Sonarqube Installation -- Sonar Server -- url:9000
+
 
 
 
