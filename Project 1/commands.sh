@@ -84,7 +84,11 @@ sudo systemctl status docker
 sudo systemctl start docker
 sudo usermod -aG docker ubuntu
 
+sudo su jenkins
 
+D-> sudo su
+nano /etc/ssh/sshd_config
+Uncomment Public Authentication
 
 
 
