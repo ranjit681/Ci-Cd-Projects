@@ -111,8 +111,10 @@ Post-Build Actions: Add Build Step: Remote Shell | Target Server | Shell: touch 
 
 Goto D-> ls Check the file
 
-
-
+Goto github: Create a file
+Dockerfile
+FROM nginx
+COPY . /usr/share/nginx/html/
 
 
 
