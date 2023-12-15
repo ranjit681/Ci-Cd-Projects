@@ -76,7 +76,7 @@ Build Now
 
 
 Docker
-sudo hostnamectl set-hostname sonarqube
+sudo hostnamectl set-hostname docker
 /bin/bash
 sudo apt update -y
 
