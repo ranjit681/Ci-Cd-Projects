@@ -64,7 +64,10 @@ Configure/
 SonarQube Servers -- Sonarqube Installation -- Sonar Server -- url:9000
 
 Automated-Pipeline/Configure
-Build Steps: 
+Build Steps: Exexcute the SonarQube Scanner
+Analysis Properties: Token /Scan
+
+
 
 
 
