@@ -67,6 +67,9 @@ Automated-Pipeline/Configure
 Build Steps: Exexcute the SonarQube Scanner
 Analysis Properties: Token /Scan
 
+manage/Configure
+Server Authentication Token: Add- Jenkins | Secret Text
+
 
 
 
