@@ -94,6 +94,10 @@ passwd ubuntu
 
 J-> ssh ubuntu@DockerIP
 passwd
+Exit
+
+ssh-keygen
+ssh-copy-id ubuntu@DockerIp
 
 
 
