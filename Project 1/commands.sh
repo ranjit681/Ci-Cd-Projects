@@ -63,7 +63,8 @@ Save
 Configure/
 SonarQube Servers -- Sonarqube Installation -- Sonar Server -- url:9000
 
-
+Automated-Pipeline/Configure
+Build Steps: 
 
 
 
