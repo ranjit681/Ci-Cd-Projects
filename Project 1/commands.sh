@@ -109,7 +109,7 @@ Automated-Pipeline/configure
 Post-Build Actions: Add Build Step: Remote Shell | Target Server | Shell: touch test.txt| Build now
 
 
-
+Goto D-> ls Check the file
 
 
 
